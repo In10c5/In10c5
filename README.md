@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @In10c5
+- 💻 Follow me on my coding journey 
+- 🪐 I intend to post my mini projects and big accomplishments on github for everone to see 
